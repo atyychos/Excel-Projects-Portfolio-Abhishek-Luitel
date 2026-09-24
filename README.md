@@ -1,7 +1,7 @@
 # Excel for Business Analytics — Complete Project Repository   
 
 > A hands-on project repository demonstrating real-world application of Microsoft Excel for Business Analytics — covering formula engineering, Power Query, DAX, data modeling, and dashboard design..  
-
+ 
 ---
 
 ## 📌 Table of Contents
